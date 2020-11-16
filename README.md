@@ -1,1 +1,1 @@
-# Artists And Events
+# Artists and Events

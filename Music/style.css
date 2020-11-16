@@ -1,0 +1,26 @@
+#logoImgId {
+    border-radius: 20px;
+    -webkit-filter: invert(1);
+    filter: invert(1);
+}
+
+.card-img-top {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.card {
+    margin-left: 18px; 
+    margin-top: 10px;
+    border-radius: 15px;
+    width: 18rem;
+}
+
+.navbar {
+    background-color: #2d3e50;
+}
+
+#bodyId {
+    background-color: #ECECEC;
+}
+
